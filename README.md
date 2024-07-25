@@ -18,7 +18,7 @@ This is a project attempts to integrate XR technology into traditional art desig
 
 ## System Design: ShadowRehearsal
 
- Go through: After completing puppet figures designs on paper, the designer uses the HMD's camera to capture the sketch within the user's field of view in an augmented reality environment. The image is then sent to the image processor, which uses OpenCV for basic sharpening and matting, followed by animation rigging and control mapping. The processed image is applied to an interactive virtual stage with a puppet control simulation system allowing the designer to choreograph shadow puppet's movements and preview stage effects.
+ Go through: After completing puppet figures designs on paper, the designer uses the HMD's camera to [capture](https://github.com/CidsHo/CaptureScreen) the sketch within the user's field of view in an augmented reality environment. The image is then sent to the image processor, which uses OpenCV for basic sharpening and matting, followed by animation rigging and control mapping. The processed image is applied to an interactive virtual stage with a puppet control simulation system allowing the designer to choreograph shadow puppet's movements and preview stage effects.
 
 <p align="center">
     <br>
