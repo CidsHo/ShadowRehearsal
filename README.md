@@ -8,7 +8,9 @@ This is a project attempts to integrate XR technology into traditional art desig
     <br>
 </p>
 
-Figure 1: Demonstration of ShadowRehearsal.👆
+<p align="center">
+    Figure 1: Demonstration of ShadowRehearsal.👆 
+</p>
 
 ## Pain points in Shadow Play Design Workflow
 
@@ -24,6 +26,8 @@ Figure 1: Demonstration of ShadowRehearsal.👆
     <br>
 </p>
 
-Figure 2: (a) Image capture: user aims the headset at the sketch, and a preview image is displayed after recording; (b) Image processing: joints are bound and marked with green dots; (c) Manipulation simulation demonstration from the user's perspective.
+<p align="center">
+    Figure 2: (a) Image capture: user aims the headset at the sketch, and a preview image is displayed after recording; (b) Image processing: joints are bound and marked with green dots; (c) Manipulation simulation demonstration from the user's perspective.
+</p>
 
 **To be published in late Oct. 2024. **
