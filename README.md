@@ -22,7 +22,7 @@ This is a project attempts to integrate XR technology into traditional art desig
 
 <p align="center">
     <br>
-    <img src="Pics/Demo2.png" width="100%"/>
+    <img src="Pics/Demo2.png" width="50%"/>
     <br>
 </p>
 
