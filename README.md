@@ -1,4 +1,4 @@
-# ShadowRehearsal
+# ShadowRehearsal-Workflow
 
 This is a project attempts to integrate XR technology into traditional art design workflow. Having Selected Shadow Puppetry as a entry point, I developed and tested a system called "ShadowRehearsal" among practitioners, demonstrating that XR technology can revolutionize traditional art workflows by significantly enhancing rapid prototyping and testing of design concepts.
 
