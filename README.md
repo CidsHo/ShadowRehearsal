@@ -37,7 +37,7 @@ This is a project attempts to integrate XR technology into traditional art desig
 </p>
 
 <p align="center">
- Figure 4: Model BreakDown Demo. 
+ Figure 3: Model BreakDown Demo. 
 </p>
 
 <p align="center">
