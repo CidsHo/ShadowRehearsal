@@ -30,4 +30,24 @@ This is a project attempts to integrate XR technology into traditional art desig
     Figure 2: (a) Image capture: user aims the headset at the sketch, and a preview image is displayed after recording; (b) Image processing: joints are bound and marked with green dots; (c) Manipulation simulation demonstration from the user's perspective.
 </p>
 
+<p align="center">
+    <br>
+    <img src="Pics/Demo-Breakdown.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+ Figure 4: Model BreakDown Demo. 
+</p>
+
+<p align="center">
+    <br>
+    <img src="Pics/Demo3.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+ Figure 4: Rigging Demo
+</p>
+
 **To be published in late Oct. 2024. **
