@@ -47,7 +47,7 @@ This is a project attempts to integrate XR technology into traditional art desig
 </p>
 
 <p align="center">
- Figure 4: Rigging Demo
+ Figure 4: Rigging Demo.
 </p>
 
 **To be published in late Oct. 2024. **
