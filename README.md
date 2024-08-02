@@ -12,7 +12,7 @@ This is a project attempts to integrate XR technology into traditional art desig
     Figure 1: Demonstration of ShadowRehearsal.👆 
 </p>
 
-## Pain points in Shadow Play Design Workflow
+## Pain Points in Shadow Play Design Workflow
 
  We observed the design workflow of this cultural theme and conducted interviews with designers. During the creation process, artists often need to produce multiple puppets based on the same artistic design for stage effect testing and action choreography. The complexity of the production process and the fragility of the puppets significantly increase creative costs, reducing the artists' inclination to explore new stage effects and narratives.
 
